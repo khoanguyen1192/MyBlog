@@ -2,7 +2,7 @@
 //include config
 require_once('../includes/config.php');
 
-
+// them dong chu thich o day
 //check if already logged in
 if( $user->is_logged_in() ){ header('Location: index.php'); } 
 ?>
