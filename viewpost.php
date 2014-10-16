@@ -71,7 +71,7 @@
 		    
 		            </ul>
 
-		            <div class="header-right">
+		            <!-- <div class="header-right">
 		            	<ul class="menu-login">
 		                    <li class="header-right-main"> 
 		                    	<?php if (isset($_SESSION['username'])) : ?>
@@ -81,7 +81,7 @@
 		                       	<?php endif; ?>
 		                    </li>
 		                </ul>
-		            </div>
+		            </div> -->
 				</div>
 			</div>
 			<div class="wrap-main">
